@@ -7,6 +7,9 @@ This repository contains the **first-phase prototype** - a minimal system that d
 
 **Started**: Feb 12, 2026
 
+📁 [General Plan](docs/PROGRESS.md)
+
+📈 [Weekly Progress Log](docs/PROGRESS.md)
 
 ---
 *This is an ongoing project. Phase 2 (Summer 2026) will extend to full campus navigation and use more techniques rather than vision alone to locate more accurately.*
