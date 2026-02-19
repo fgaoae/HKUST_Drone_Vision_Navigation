@@ -7,7 +7,7 @@ This repository contains the **first-phase prototype** - a minimal system that d
 
 **Started**: Feb 12, 2026
 
-📁 [General Plan](docs/PROGRESS.md)
+📁 [General Plan](docs/PLAN_First_Phase.md)
 
 📈 [Weekly Progress Log](docs/PROGRESS.md)
 
