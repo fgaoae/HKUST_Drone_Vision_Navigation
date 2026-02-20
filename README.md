@@ -1,4 +1,4 @@
-# HKUST Drone Navigation
+# HKUST Navigation Drone
 **Phase 1: Prototype Development (Spring 2026)**
 
 A self-learning project to build a autonomous navigation drone for HKUST campus both inside and outside.
