@@ -1,7 +1,7 @@
-# HKUST Drone Vision Navigation
+# HKUST Drone Navigation
 **Phase 1: Prototype Development (Spring 2026)**
 
-A self-learning project to build a vision-guided autonomous drone for HKUST campus both inside and outside.
+A self-learning project to build a autonomous navigation drone for HKUST campus both inside and outside.
 
 This repository contains the **first-phase prototype** - a minimal system that demonstrates landmark detection and autonomous flight in simulation, with initial hardware development.
 
